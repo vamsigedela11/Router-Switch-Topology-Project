@@ -17,3 +17,8 @@ Router Configuration Summary:
 • Default route on LAN Router for internet access
 • Dynamic NAT (PAT overload) for secure public communication
 • ACL defined to permit only internal subnet for NAT
+
+Tools Used:
+• Cisco Packet Tracer
+• Router CLI
+• Basic networking test utilities (Ping, Show commands)
