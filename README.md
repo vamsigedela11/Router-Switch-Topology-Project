@@ -10,3 +10,10 @@ Key Objectives:
 • Enable internal device communication across LAN
 • Provide internet access using static routing and NAT
 • Verify connectivity using network testing tools (Ping, Commands)
+
+Router Configuration Summary:
+• WAN and LAN interfaces configured on routers
+• Static route on ISP Router to internal network
+• Default route on LAN Router for internet access
+• Dynamic NAT (PAT overload) for secure public communication
+• ACL defined to permit only internal subnet for NAT
