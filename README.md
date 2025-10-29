@@ -22,3 +22,12 @@ Tools Used:
 • Cisco Packet Tracer
 • Router CLI
 • Basic networking test utilities (Ping, Show commands)
+
+Security Relevance:
+This project covers the essential first steps of cyber security networking:
+• Segmented IP addressing
+• Gateway configuration to control traffic
+• NAT for hiding internal addresses
+• Routing policies for secure communication paths
+
+Note: These concepts form the base layer of secure network design in real organizations.
