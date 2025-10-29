@@ -23,6 +23,14 @@ Tools Used:
 • Router CLI
 • Basic networking test utilities (Ping, Show commands)
 
+Connectivity Testing Steps:
+• Ping 192.168.10.1 from each PC to verify gateway reachability
+• Ping 8.8.8.8 to ensure NAT operation and internet access
+• Use router diagnostic commands:
+• show ip interface brief
+• show ip route
+• show ip nat translations
+
 Security Relevance:
 This project covers the essential first steps of cyber security networking:
 • Segmented IP addressing
